@@ -14,3 +14,7 @@ I'm working on various projects. Primarily I'm working on restarting my roblox-b
 
 ### ⚡ Fun fact:
 If it wasn't for me accidentially stumbling apon roblox in 2014, I would have never started programming.
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=uhteddy&show_icons=true" alt="My GitHub statistics" width="450"/>
+</p>
