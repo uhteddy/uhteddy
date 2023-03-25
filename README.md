@@ -7,7 +7,15 @@ My name is Teddy, I'm a 16 year old developer. I got my start on Roblox using th
 - Lua
 - Javascript
 - SQL
-- Vue (not really a langauge but...)
+- Typescript
+
+## Technologies I Know
+- Svelte
+- React
+- Next.js
+- SvelteKit
+- Prisma
+- Tauri
 
 ### What I'm working on.
 I'm working on various projects. Primarily I'm working on restarting my roblox-based company [Interlab](https://github.com/interlab-org). This company is working on creating various web-based products for roblox users and developers.
