@@ -1,7 +1,7 @@
 ### Hi there 👋
 he/him
 
-My name is Teddy, I'm a 16 year old developer. I got my start on Roblox using their sandboxing engine to put together silly things. Roblox is how I got my start.
+My name is Teddy, I'm a 18 year old developer. I got my start on Roblox using their sandboxing engine to put together silly things. Roblox is how I got my start.
 
 ## Languages I Know
 - Lua
