@@ -8,6 +8,7 @@ My name is Teddy, I'm a 18 year old developer. I got my start on Roblox using th
 - Javascript
 - SQL
 - Typescript
+- C
 
 ## Technologies I Know
 - Svelte
